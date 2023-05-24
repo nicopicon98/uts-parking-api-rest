@@ -1,4 +1,4 @@
-# Proyecto de Estacionamiento con Spring Boot
+# Proyecto ParkingSoyUteista API RestFul con SpringBoot
 
 Este proyecto es un sistema de gestión de estacionamiento desarrollado utilizando Spring Boot. El sistema permite a los usuarios gestionar reservas de plazas de estacionamiento y también permite a los administradores supervisar y gestionar todas las reservas.
 
